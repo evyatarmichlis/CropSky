@@ -10,7 +10,7 @@ pip install cython
 pip install opencv-python
     
 4. clone the detectron2  git -git clone https://github.com/facebookresearch/detectron2.git
-5 pip install -e  - inside the detectron2 folder
+5. pip install -e  - inside the detectron2 folder
 make sure the detectron2 folder is the same folder as my project
 
 
