@@ -25,5 +25,7 @@ the class need the pathes for the dataset and for the output file
 3. crop_sky_from_data_set - use crop_sky to crop entrie folder from the sky.
 
 
-sky-datset.zip - data set before with sky
-croped_images - data set without sky
+datasets:
+1. sky-datset.zip - data set before with sky
+
+2. croped_images - data set without sky
